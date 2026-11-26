@@ -88,6 +88,10 @@ Este projeto é distribuído sob a licença MIT.
 
 ---
 
+# 👨‍💻 Organização
+
+Desenvolvido pela organização **AcquaCEG**.
+
 In English Now
 
 # 💧 AcquaCEG
@@ -183,6 +187,3 @@ This project is licensed under the MIT License.
 # 👨‍💻 Organization
 
 Developed by the **AcquaCEG** organization.
-# 👨‍💻 Organização
-
-Desenvolvido pela organização **AcquaCEG**.
